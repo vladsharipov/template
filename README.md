@@ -10,3 +10,6 @@
 Short description of a project. Project goals, achieved results
 ## About project team
 Description of project team: participants, their bio, project roles, contacts, etc.
+
+## Instructions and manuals
+[Link to project manual.pdf](/manuals/manual.pdf)
