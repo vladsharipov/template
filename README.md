@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Template for an Open Source Urbanism project
 
-You can use the [editor on GitHub](https://github.com/opensourceurbanism/template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opensourceurbanism/template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## General information
+- **Project name:** Template project
+- **Location:** Country, City, Address. [Link on a map](https://www.google.ru/maps/place/Oudekerksplein,+Amsterdam/@52.374298,4.8962646,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609b8f6c2e8d9:0xc151b54ae3f6e6cc!8m2!3d52.3743828!4d4.8981849)
+- **Year of development:** 2018
+## Project photos
+![Example image](/images/example.jpg)
+## Project description
+Short description of a project. Project goals, achieved results
+## About project team
+Description of project team: participants, their bio, project roles, contacts, etc.
